@@ -5,7 +5,7 @@ html, body {
 }
 
 p, ul {
-  font-size: 0.75rem;
+  font-size: 1 rem;
 }
 
 img {
@@ -15,7 +15,8 @@ img {
 }
 
 ul {
-  list-style: none;
+  margin-left: 20px;
+  list-style-position: outside;
 }
 
 .container {
